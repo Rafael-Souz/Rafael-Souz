@@ -1,6 +1,6 @@
 ### Olá! Eu sou Rafael Silva De Souza
 ##
-💻 Sou iniciante na programação <br>
+💻 Desenvolvedor <br>
 🏡 São Paulo
 
 <div align="center">
